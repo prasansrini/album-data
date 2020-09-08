@@ -1,6 +1,12 @@
 {
   "albums": [
-    { "albumId": 1, "id": 1, "title": "Jai Ho", "url": "https://via.placeholder.com/600/92c952", "thumbnailUrl": "https://via.placeholder.com/150/92c952" },
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Jai Ho",
+      "url": "https://github.com/prasansrini/album-data/blob/master/album1.jpg",
+      "thumbnailUrl": "https://github.com/prasansrini/album-data/blob/master/album1.jpg"
+    },
     { "albumId": 1, "id": 1, "title": "Jai Ho", "url": "https://via.placeholder.com/600/92c952", "thumbnailUrl": "https://via.placeholder.com/150/92c952" },
     { "albumId": 1, "id": 1, "title": "Jai Ho", "url": "https://via.placeholder.com/600/92c952", "thumbnailUrl": "https://via.placeholder.com/150/92c952" }
   ]
